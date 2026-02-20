@@ -1,1 +1,3 @@
-# Fb_Forget
+rm -rf Fb_Forget
+
+git clone 
