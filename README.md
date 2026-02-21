@@ -1,4 +1,6 @@
-rm -rf Fb_Forget
-git clone https://github.com/NAGATO-SENSE/Fb_Forget
-cd Fb_Forget
-python forget_enc.py
+- `rm -rf Fb_Forget`
+- `git clone --depth=1 https://github.com/NAGATO-SENSE/Fb_Forget`
+- `cd Fb_Forget`
+- `git pull`
+- `git pull`
+- `python forget_enc.py`
